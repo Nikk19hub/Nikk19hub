@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikk19hub" alt="nikk19hub" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/dzock0eDxV0AAAAM/gofiber-really.gif" >
+<img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" >
 
 - 🔭 I’m currently working on [Shipment Price Prediction](https://github.com/Nikk19hub/Shipment-Price-Prediction)
 
