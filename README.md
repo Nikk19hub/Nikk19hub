@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Deep Learning and Explainable AI**
 
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Nikk19hub](https://github.com/Nikk19hub)
 
 - 📫 How to reach me **nikhildongare2003@gmail.com**
