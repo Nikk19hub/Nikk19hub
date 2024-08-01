@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" >
 
-- 🔭 I’m currently working on [Shipment Price Prediction](https://github.com/Nikk19hub/Shipment-Price-Prediction)
+- 🔭 I’m currently working on [AI for Translation](https://github.com/Nikk19hub/AI-for-Translation.git)
 
 - 🌱 I’m currently learning **Deep Learning and Explainable AI**
 
