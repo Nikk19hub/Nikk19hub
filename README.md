@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikk19hub/Nikk19hub/blob/main/Github%20Banner.png)
+![logo]([Github Banner 1.png](https://github.com/Nikk19hub/Nikk19hub/blob/main/Github%20Banner%201.png))
 <h1 align="center">Hi 👋, I'm Nikkhil Dongare</h1>
 <h3 align="center">I am passionate about technologies like ML, NLP, Neural Networks, Data Science.</h3>
 
