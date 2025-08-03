@@ -1,6 +1,6 @@
 ![logo]((https://github.com/Nikk19hub/Nikk19hub/blob/main/Github%20Banner%201.png))
 <h1 align="center">Hi 👋, I'm Nikkhil Dongare</h1>
-<h3 align="center">I am passionate about technologies like ML, NLP, Neural Networks, Data Science.</h3>
+<h3 align="center">I am passionate about technologies like ML, Data Analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikk19hub&label=Profile%20views&color=0e75b6&style=flat" alt="nikk19hub" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on [AI for Translation](https://github.com/Nikk19hub/AI-for-Translation.git)
 
-- 🌱 I’m currently learning **Deep Learning and Explainable AI**
+- 🌱 I’m currently learning **Dataiku and Data Governance**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **ML / Analytics Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikk19hub](https://github.com/Nikk19hub)
 
