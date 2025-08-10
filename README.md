@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" >
 
-- 🔭 I’m currently working on a Dataiku project.
+- 🔭 I’m currently working on a Full-Stack Data Engineering project.
 
 - 🌱 I’m currently learning **Dataiku and Data Governance**
 
